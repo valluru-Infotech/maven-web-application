@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.92.56.50:8081/repository/krishnarel/</url>
+	      <url>http://18.212.212.146:8081/repository/sasmplerel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.92.56.50:8081/repository/krishnasnap/</url>
+	      <url>http://18.212.212.146:8081/repository/samplesnap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
